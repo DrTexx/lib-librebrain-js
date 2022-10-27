@@ -1,0 +1,19 @@
+{
+  "name": "lib-librebrain",
+  "version": "0.1.0",
+  "description": "Free and Open Brain Training Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DrTexx/lib-librebrain-js.git"
+  },
+  "author": "Denver Pallis",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/DrTexx/lib-librebrain-js/issues"
+  },
+  "homepage": "https://github.com/DrTexx/lib-librebrain-js#readme"
+}
